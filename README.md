@@ -2,7 +2,10 @@ Election Data:
 https://drive.google.com/file/d/1Yac5DH9EPRafBS1frlYSfvQW379qpHq-/view?usp=sharing
 
 Install library requirements from requirements.txt
-Acquire API from USCensus https://www.census.gov/
+
+To Query Census data:
+-> Acquire API Key from: https://www.census.gov/
+
 
 Project Report:
 [OSNA Final-Project Report.pdf](https://github.com/user-attachments/files/18041399/OSNA.Final-Project.Report.pdf)

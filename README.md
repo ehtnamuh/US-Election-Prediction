@@ -7,3 +7,6 @@ to work
 
 also insall requirements:
 
+Project 
+
+[Election Prediction 2024.pdf](https://github.com/user-attachments/files/18041377/Election.Prediction.2024.pdf)
